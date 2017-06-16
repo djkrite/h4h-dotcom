@@ -5,13 +5,13 @@
         <description>Hope for Holyoke - Hope for Holyoke</description>
         <link>http://username.github.io</link>
         <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Jun 2017 09:07:54 -0400</lastBuildDate>
-        <pubDate>Wed, 14 Jun 2017 09:07:54 -0400</pubDate>
+        <lastBuildDate>Fri, 16 Jun 2017 13:10:07 -0400</lastBuildDate>
+        <pubDate>Fri, 16 Jun 2017 13:10:07 -0400</pubDate>
         <ttl>60</ttl>
 
 
         <item>
-                <title>Jekyll Introduction</title>
+                <title>Sample Page Post</title>
                 <description>
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
@@ -432,8 +432,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://username.github.io/lessons/2011/12/29/sample-page-post</link>
+                <guid>http://username.github.io/lessons/2011/12/29/sample-page-post</guid>
                 <pubDate>Thu, 29 Dec 2011 00:00:00 -0500</pubDate>
         </item>
 
