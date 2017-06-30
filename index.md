@@ -9,7 +9,7 @@ tagline: 'Recovery Center</br>(413) 322-8652</br>'
 
 #### We're just getting started. More to come soon!
 
-<!--
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -17,4 +17,3 @@ tagline: 'Recovery Center</br>(413) 322-8652</br>'
     </li>
   {% endfor %}
 </ul>
--->
