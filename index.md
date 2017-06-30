@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hope for Holyoke</br>
-tagline: Recovery Center</br>(413) 322-8652</br>
+title: Hope for Holyoke
+tagline: 'Recovery Center</br>(413) 322-8652</br>'
 ---
 {% include JB/setup %}
 
