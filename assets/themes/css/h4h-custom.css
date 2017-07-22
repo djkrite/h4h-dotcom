@@ -5,6 +5,10 @@
 	width: 100%;
 }
 
+.largewidth {
+	width: 70%;
+}
+
 #footer {
     padding-right: 15px;
     padding-left: 15px;
