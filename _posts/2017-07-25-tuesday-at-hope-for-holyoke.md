@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Posts
-tagline: to Hope for Holyoke
+tagline: This tag line is better
 tags:
   - General
 ---
