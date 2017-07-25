@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hope for Holyoke
-tagline: Recovery Center (413) 322-8652
+tagline: Recovery Center (413) 561-1020 
 ---
 {% include JB/setup %}
 
