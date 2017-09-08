@@ -7,7 +7,9 @@ tagline: Recovery Center (413) 561-1020
 
 <img class="largewidth" src="{{ site.url }}/assets/images/h4h_building_front.jpg" />
 
-#### We're just getting started. More to come soon!
+#### We welcome people in all stages of recovery as well as family members and friends affected by addiction. We are located at:
+
+100 Suffolk Street, Holyoke, MA 01040
 
 <!--
 <ul>
