@@ -5,7 +5,7 @@ tagline: Recovery Center (413) 561-1020
 ---
 
 
-{% include JB/setup %} #### We welcome people in all stages of recovery as well as family members and friends affected by addiction.
+{% include JB/setup %} We welcome people in all stages of recovery as well as family members and friends affected by addiction.
 
 ![]({{ site.url }}/assets/images/h4h_building_front.jpg){: .largewidth}
 
